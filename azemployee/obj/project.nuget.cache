@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hm9K47o94IZk7EE2iWnUJJ/i9JLsFtL14iEFMETR2KX1Ilh+4f99r/lDayTTv6Dti1712yLLLycdqoJI1C3eQQ==",
+  "success": true,
+  "projectFilePath": "D:\\GCP\\azcicd\\azemployee\\azemployee.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\krushnakumar.sarwe\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
