@@ -13,7 +13,7 @@ open azemployee
 type WeatherForecastController (logger : ILogger<WeatherForecastController>) =
     inherit ControllerBase()
 
-    let summaries = [| "Freezing"; "Bracing"; "Chilly"; "Cool"; "Mild"; "Warm"; "Balmy"; "Hot"; "Sweltering"; "Scorching" |]
+    let summaries = [| "Freezing"; "Bracing"; "Chilly"; "Cool"; "Milder"; "Warm"; "Balmy"; "Hot"; "Sweltering"; "Scorching" |]
 
     [<HttpGet>]
     member __.Get() : WeatherForecast[] =
